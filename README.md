@@ -3,7 +3,8 @@
 
 # Requirements
 > Python 3.9.x  
-> PyGame  
+> PyGame
+> A Friend  
 
 # Tutorial
 1. Clone or Download the files
