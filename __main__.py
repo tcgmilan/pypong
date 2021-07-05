@@ -1,6 +1,4 @@
 import pygame
-
-
 from src import pypong
 
 def main():
