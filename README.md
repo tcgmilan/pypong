@@ -23,7 +23,7 @@
 
 > Try to update *Pip* manually: `pip install --upgrade pip` 
 
-### The game sometimes bugging!
+### The game contains bugs!
 #### Yes, the game is still not completed! I will patch the bugs! If you notice any *Issue* open a *New Issue* 
 
 # Todo List
