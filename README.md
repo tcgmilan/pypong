@@ -3,7 +3,7 @@
 
 # Requirements
 > Python 3.9.x  
-> PyGame
+> PyGame  
 > A Friend  
 
 # Tutorial
