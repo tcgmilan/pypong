@@ -2,7 +2,6 @@ import pygame
 from src import pypong
 
 def main():
-    print("PyPong By ftp._balzsam")
     game = pypong.PyPong()
     player_one = game.PlayerOne(input("What is the first player name: "))
     player_two = game.PlayerTwo(input("What is the second player name: "))
