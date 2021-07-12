@@ -15,7 +15,6 @@
 6. Second Player: Up + Down
 
 # Troubleshooter
-
 ### What if the game does not start?
 > Try install *PyGame* manually: `pip install pygame`
 
